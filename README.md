@@ -11,7 +11,6 @@
 ![Banner do Projeto](https://github.com/user-attachments/assets/d886965b-ba46-4652-82f1-f9470e7f1e96)
 
 > **"Um modelo bem feito não é apenas técnico — é a tradução de um problema de negócio em estrutura que pode ser consultada, auditada e evoluída."**  
-> — Adaptado de Meigarom Lopes
 
 <div align="center">
 
